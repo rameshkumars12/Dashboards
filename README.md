@@ -1,4 +1,8 @@
 # Dashboards
 
+### Global Terrorism
+##### https://tabsoft.co/3A2qreh
 
-![Global Terrorism Dashboard](https://user-images.githubusercontent.com/84787925/133055287-d6994b83-c61e-410d-8b31-0dc45c558e12.PNG)
+
+### Naukri DataScience Jobs
+##### https://tabsoft.co/2Xik34t

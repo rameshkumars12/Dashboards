@@ -106,4 +106,4 @@ MAX(people_vaccinated) as people_vaccinated
 FROM Covid19
 GROUP BY location, date
 
-SELECT population Fm Covid19
+SELECT population From Covid19
